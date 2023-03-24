@@ -1,0 +1,1197 @@
+wine cellar-bottle storage
+bird
+brewery-outdoor
+grill
+nuclear power plant-outdoor
+convenience store-indoor
+ashcan
+railroad train
+canyon
+flecked
+crystalline
+mountain snowy
+shed
+paper towel
+elevator-freight elevator
+waterfall-cascade
+excavation
+earth
+hot spring
+scaly
+table cloth
+tap
+ski resort
+plane
+badlands
+kiosk-outdoor
+dam
+embankment
+streetlight
+television camera
+calendar
+candy store
+arcades
+railing
+basketball hoop
+pottedplant
+pitcher
+covered bridge-exterior
+exhibitor
+tank
+toilet tissue
+flag
+game room
+hand cart
+trunk
+shipyard
+console table
+crosswalk
+shed
+corral
+ice cream parlor
+theater-indoor procenium
+joss house
+auto factory
+clock
+fountain
+traveling bag
+pictures
+elevator lobby
+toilet
+hot tub
+menu
+skeleton
+poolroom-establishment
+place mat
+workshop
+labyrinth-indoor
+corn field
+rubble
+horn
+dirt track
+snow
+trench
+saddle
+sky
+fitting room-interior
+subway station-corridor
+swimming pool
+red-c
+shopping mall-indoor
+desert-vegetation
+checkout counter
+deck
+library-outdoor
+track
+guitar
+rudder
+formal garden
+plastic-opaque
+ranch house
+capital
+downtown
+bleachers-indoor
+grille door
+bus interior
+garage door
+loudspeaker
+island
+bus
+display window
+moat-water
+flood
+cabinet
+footboard
+wood
+shop
+skittle alley
+aquarium
+video player
+pool
+screen
+screen door
+fairway
+forest road
+dashboard
+mountain path
+orchard
+temple-east asia
+forecourt
+pillar
+mountain road
+hotel-outdoor
+irrigation ditch
+hand
+ottoman
+grooved
+armchair
+operating room
+shoe shop
+newspaper
+paisley
+kettle
+newsstand-outdoor
+skyscraper
+sprinkled
+fence
+palm
+tire
+amusement arcade
+cardroom
+bar
+chest
+dome
+foot
+air conditioner
+manufactured home
+granite
+wing
+leaf
+jar
+tile
+hotel room
+dummy
+boxing ring
+field-cultivated
+window seat
+baggage claim
+sacristy
+beach house
+bedchamber
+drinking glass
+cabin
+youth hostel
+videostore
+hoodoo
+cabana
+alley
+trade name
+canal-urban
+jail-outdoor
+shelter
+conveyer belt
+carport
+handle bar
+machine
+watchtower
+videos
+curtain
+campsite
+tvmonitor
+heliport
+stove
+gymnasium-indoor
+field-wild
+spiralled
+body
+lighthouse
+handle
+dolmen
+gauzy
+ball
+shower
+zigzagged
+terraces
+side rail
+leaves
+barn
+stage-indoor
+lean-to
+bus depot-outdoor
+covered bridge-interior
+cockpit
+floor
+canister
+windows
+gym shoe
+ice
+pulpit
+cubicle-library
+pitted
+wet bar
+topiary garden
+shirt
+wheel
+temple
+keyboard
+creek
+sauna
+beach
+arch
+plaza
+balcony-exterior
+beer garden
+rocking chair
+shaft
+stands
+honeycombed
+bulletin board
+arm
+controls
+cemetery
+parterre
+player
+monastery-outdoor
+handbag
+beak
+windmill
+oast house
+painting
+candle
+roundabout
+painted
+cradle
+swirly
+inflatable bounce game
+flowerpot
+water wheel
+rubble
+bedroom
+bench
+shade
+booklet
+iceberg
+terrace
+gravestone
+frilly
+waiting room
+lake-natural
+towel
+golf course
+vegetable garden
+switch
+blinds
+semidesert ground
+natural history museum
+telephone booth
+snowfield
+desert-sand
+structure
+mill
+recycling bin
+pane of glass
+cracked
+inn-outdoor
+shoe
+soap dispenser
+bedpost
+jacuzzi-indoor
+hen
+water tower
+purple-c
+box
+drawer
+barrel
+coach roof
+estuary
+tomb
+dishwasher
+mission
+pallet
+train station-outdoor
+amusement park
+highway
+aqueduct
+chest of drawers
+canteen
+blotchy
+faucet
+license plate
+building complex
+gift shop
+bumpy
+interlaced
+easel
+chandelier
+seat base
+alcove
+waterfall-block
+bathtub
+ocean
+berth
+straw
+knife
+casino-outdoor
+fitting room-exterior
+synagogue-outdoor
+bottle
+fish
+yard
+slats
+savanna
+display board
+foliage
+steam shovel
+stained
+mouth
+television
+greenhouse-indoor
+jacket
+vending machine
+office building
+green-c
+eye
+basketball court-outdoor
+mosque-outdoor
+jersey
+moor
+water mill
+industrial park
+driving range-outdoor
+mouse pad
+smeared
+lockers
+granary
+courtyard
+tennis court
+pink-c
+canvas
+telescope
+excavator
+lecture room
+pleated
+sandbox
+hat
+apparel
+mat
+set of instruments
+hangar-indoor
+hill
+concrete
+utility room
+barbecue
+roof
+step
+elephant
+sculpture
+water tank
+mirror
+ear
+restaurant
+motorbike
+skin
+hunting lodge-indoor
+television stand
+streetcar
+hedge maze
+camera
+doorway-outdoor
+casing
+stool
+covered bridge
+cafeteria
+monument
+lamp
+museum-indoor
+pier
+fluorescent
+ballroom
+polka-dotted
+taillight
+brown-c
+bulldozer
+drawing
+double door
+postbox
+workbench
+windshield
+television studio
+briefcase
+water tower
+desert
+trestle
+doorway-indoor
+crane
+martial arts gym
+train
+lighthouse
+slum
+grey-c
+horse-drawn carriage
+spindle
+landing deck
+counter
+galley
+arcade
+shelves
+shelf
+saucepan
+vault
+ad
+niche
+tower
+mattress
+skirt
+top
+bandstand
+eyebrow
+classroom
+bathrobe
+pantry
+wall
+coffee shop
+hut
+baptistry-outdoor
+toyshop
+parasol
+convenience store-outdoor
+loading dock
+volleyball court-outdoor
+escalator-indoor
+sheep
+dishrag
+pipe
+altarpiece
+ring
+wrestling ring-indoor
+knitted
+fork
+refrigerator
+cat
+cathedral-outdoor
+patty
+pitch
+wheat field
+court
+basketball court-indoor
+mug
+minibike
+lower sash
+pane
+gate
+witness stand
+restaurant patio
+choir loft-exterior
+dormer
+elevator-interior
+duck
+shanties
+lake-artificial
+roller coaster
+weighbridge
+brush
+outside arm
+stile
+driveway
+toll booth
+swimming pool-outdoor
+basement
+curb
+airport ticket counter
+water
+building facade
+veined
+chimney
+subway interior
+sidewalk
+home office
+viaduct
+nursery
+bubbly
+corridor
+blind
+kasbah
+fibrous
+runway
+gulch
+home theater
+movie theater-indoor
+fog bank
+balcony-interior
+manhole
+wine cellar-barrel storage
+eiderdown
+folding screen
+bread rolls
+carrousel
+witness stand
+synthesizer
+equipment
+lido deck-outdoor
+plinth
+gazebo-exterior
+pillow
+bird cage
+tree
+crevasse
+japanese garden
+catwalk
+corner pocket
+wardrobe
+bidet
+cup
+fur
+rope bridge
+botanical garden
+drainage ditch
+plastic
+headboard
+magazine
+check-in-desk
+stratified
+dorm room
+candelabrum
+bathroom
+quay
+inn-indoor
+stairway
+general store-outdoor
+pond
+binder
+tail
+junkyard
+assembly line
+can
+cactus
+head
+control tower-indoor
+backstairs
+oar
+church-outdoor
+lagoon
+bazaar-outdoor
+moat-dry
+fire station
+market-outdoor
+braided
+circus tent-outdoor
+garage-indoor
+tables
+apse-indoor
+system
+moon bounce
+bush
+slot machine
+metal shutters
+figurine
+ranch
+forest
+ball pit
+glass
+cart
+subway station-platform
+shopfront
+fort
+military hut
+sash
+hotel breakfast area
+village
+berth
+arm panel
+observatory-outdoor
+office
+coach
+rubber
+airport-entrance
+perforated
+mountain
+dining hall
+laundromat
+bird feeder
+village
+catwalk
+watering hole
+studded
+sand trap
+fuselage
+booth
+sink
+coffee table
+courthouse
+panel
+helmet
+ship
+balcony
+waterfall
+elevator-door
+junk pile
+control tower
+mountain pass
+table football
+dam
+hill
+food court
+kindergarden classroom
+day care center
+bus stop
+parlor
+backpack
+helicopter
+sales booth
+watchtower
+playground
+baptismal font
+plaything
+knob
+ceiling
+booth-indoor
+limousine interior
+bed
+hayfield
+vegetables
+tearoom
+billboard
+balloon
+river
+access road
+flower
+candies
+tray
+lake
+chain wheel
+bowl
+buffet
+hot tub-indoor
+canopy
+porch
+cow
+torso
+pantry
+mausoleum
+town house
+baseboard
+anechoic chamber
+hovel
+folding door
+shower curtain
+service station
+living room
+swimming pool-indoor
+geodesic dome-outdoor
+firing range-outdoor
+hunting lodge-outdoor
+teapot
+backplate
+church-indoor
+viaduct
+boathouse
+rock
+dentists office
+washer
+kitchenette
+guardhouse
+outhouse-outdoor
+bank-indoor
+bleachers-outdoor
+conference center
+ski slope
+shore
+street
+reception
+cannon
+computer
+tapestry
+railway
+lid
+towel rack
+hoof
+pilothouse-indoor
+weighbridge
+dacha
+remote control
+windmill
+bowling alley
+boot
+bridge
+staircase
+wineglass
+sandbox
+computer room
+table tennis
+dirt track
+park
+ruin
+chequered
+ice skating rink-indoor
+hangar-outdoor
+fireplace
+lobby
+traffic light
+planetarium-outdoor
+acropolis
+coffee maker
+river
+guardrail
+muzzle
+bowling alley
+mouse
+fire place
+sea
+dental chair
+animal
+mosque
+fire escape
+podium-indoor
+cottage
+banquet hall
+stalls
+jail cell
+grass
+scaffolding
+bog
+sofa
+autobus
+palace
+industrial area
+patio
+bottle rack
+board
+tower
+rifle
+yellow-c
+seat cushion
+baseball field
+kitchen island
+light
+rubbish
+carousel
+bullpen
+parking
+pavilion
+back
+doors
+price tag
+head roof
+hot tub-outdoor
+wicker
+plate
+valley
+stage
+jail-indoor
+rope
+pot
+doorframe
+washing machines
+shops
+revolving door
+apron
+cottage garden
+mine
+cardboard
+carport-freestanding
+scale
+cash register
+bus shelter
+bakery-kitchen
+bouquet
+podium
+shower
+fridge
+mezzanine
+frame
+landing
+riser
+bakery-shop
+black-c
+earmuffs
+diner-outdoor
+oven
+ticket window
+hat shop
+file cabinet
+heater
+bumper
+pedestal
+blade
+castle
+imaret
+quadrangle
+column
+engine
+potholed
+freckled
+music studio
+muntin
+mosque-indoor
+parking lot
+vineyard
+courtroom
+oasis
+hay
+ladder
+clouds
+fastfood restaurant
+parking lot
+dinette-vehicle
+shutter
+door frame
+hedge
+net
+seat
+bullring
+cushion
+kennel-outdoor
+airplane
+atrium-public
+matted
+planks
+laptop
+mansion
+rim
+trailer
+carport-outdoor
+henhouse
+ramp
+garage-outdoor
+organ
+wrinkled
+rack
+playroom
+art school
+waffled
+spoon
+elevator
+forest-broadleaf
+ceramic
+shower stall
+leg
+dog
+tread
+meat
+fruit
+book stand
+lift bridge
+pole
+post
+bookcase
+fire escape
+stadium-baseball
+fountain
+slope
+ride
+artists loft
+airport terminal
+vineyard
+beam
+herb garden
+campus
+monitor
+fjord
+cathedral-indoor
+fabric
+bedclothes
+paper
+map
+windscreen
+signal box
+auto showroom
+goal
+conference room
+spotlight
+stabilizer
+leather
+cheese factory
+van
+forklift
+front
+napkin
+playground
+hospital
+motel
+brick
+boat
+safety side
+auditorium
+caravan
+base
+embassy
+pool table
+candlestick
+chapel
+barrels
+work surface
+field
+door
+art studio
+dining room
+marsh
+archaelogical excavation
+catacomb
+valley
+blue-c
+car interior-backseat
+basket
+gravel
+book
+desk
+nose
+barnyard
+locker room
+ice skating rink-outdoor
+aircraft carrier
+florist shop-indoor
+nunnery
+cobwebbed
+horse
+signboard
+pack
+exhaust hood
+pasture
+baptistry-indoor
+cloister-indoor
+cloud
+road cut
+carpet
+radio
+wheelchair
+crosswalk
+medina
+tent
+bank vault
+bank-outdoor
+forest path
+airplane cabin
+dinette-home
+badminton court-indoor
+arrival gate-outdoor
+bread
+telephone
+amphitheater
+manhole
+delicatessen
+table
+sand
+wall socket
+blanket
+diffusor
+throne room
+forest-needleleaf
+elevator door
+document
+harbor
+bistro-indoor
+person
+aquatic theater
+dotted
+orange-c
+tumble dryer
+baby buggy
+porous
+coast
+text
+tracks
+windowpane
+islet
+freeway
+dugout
+parking garage-outdoor
+back pillow
+wallpaper
+countertop
+footbridge
+labyrinth
+kiosk-indoor
+grid
+market-indoor
+earth fissure
+statue
+movie theater-outdoor
+hacienda
+crosshatched
+bow window-indoor
+notebook
+cross
+sweater
+escalator-outdoor
+disc case
+grand piano
+pagoda
+steering wheel
+bell
+butte
+batters box
+face
+wave
+construction site
+slide
+microphone
+cliff
+silver screen
+vent
+central reservation
+museum-outdoor
+hospital room
+pub-outdoor
+stern
+badlands
+donjon
+student residence
+ruins
+runway
+poolroom-home
+neck
+headlight
+banner
+curtains
+button panel
+cockpit
+hair
+liquor store-indoor
+lined
+ticket counter
+umbrella
+waterfall-fan
+skyscraper
+cubicle-office
+chicken coop-outdoor
+pigeonhole
+house
+microwave
+jewelry shop
+plastic-clear
+side
+barbershop
+crate
+zen garden
+sconce
+bridge
+land
+finger
+radiator
+arch
+fire
+drum
+partition
+coat
+deck chair
+instrument panel
+cabin-outdoor
+cavern-indoor
+fence
+butchers shop
+warehouse-indoor
+football field
+entrance
+grandstand
+wire
+computer case
+sandbar
+smoke
+library-indoor
+kennel-indoor
+vase
+paw
+bannister
+apartment building-outdoor
+building
+planter
+canal-natural
+car dealership
+laminate
+brushes
+gas station
+cap
+dining car
+attic
+monitoring device
+road
+gas pump
+metal
+clean room
+aqueduct
+clothing store
+stretcher
+ground
+sewing machine
+skylight
+ice rink
+trouser
+chalet
+parking garage-indoor
+control tower-outdoor
+bazaar-indoor
+blackboard
+arcade machine
+striped
+casino-indoor
+pulpit
+bar
+shop window
+bicycle
+platform
+badminton court-outdoor
+white-c
+metal shutter
+bag
+marbled
+case
+spa-massage room
+upper sash
+gas station
+printer
+kitchen
+path
+house
+abbey
+table game
+ghost town
+elevator shaft
+woven
+cloister-outdoor
+auto mechanics-indoor
+altar
+trellis
+machinery
+sun deck
+cd
+big top
+escalator
+car
+call center
+florist shop-outdoor
+supermarket
+bullring
+childs room
+food
+piano
+airport
+flight of stairs-natural
+merchandise
+plant
+breads
+beauty salon
+roundabout
+closet
+container
+decoration
+meter
+lawn
+awning
+bookstore
+chair
+cargo container interior
+scoreboard
+sill
+flight of stairs-urban
+crt screen
+inside arm
+jacuzzi-outdoor
+truck
+lacelike
+fan
+banded
+funeral chapel
+linoleum
+hallway
+art gallery
+reading room
+farm
+stairs
+archive
+greenhouse
+field road
+greenhouse-outdoor
+air base
+bow window-outdoor
+swivel chair
+labyrinth-outdoor
+meshed
+bucket
+cage
+bayou
+mountain
+fishpond
+poster
+tunnel
+liquor store-outdoor
+box office
