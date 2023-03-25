@@ -3,7 +3,7 @@ import torch
 import pandas as pd
 from torchvision import datasets, transforms, models
 
-DATASET_ROOTS = {"imagenet_val": os.path.expanduser("~")+"/OOD_detection/imagenet-r/DeepAugment/ImageNet_val/",
+DATASET_ROOTS = {"imagenet_val": "YOUR_PATH/ImageNet_val/",
                 "broden": "data/broden1_224/images/"}
 
 

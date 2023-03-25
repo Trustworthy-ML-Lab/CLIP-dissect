@@ -53,8 +53,8 @@ if __name__ == '__main__':
                                   save_dir = args.activation_dir)
         target_save_name, clip_save_name, text_save_name = save_names
 
-        similarities, target_feats = utils.get_similarity_from_activations(
-            target_save_name, clip_save_name, text_save_name, similarity_fn, args.device
+        similarities = utils.get_similarity_from_activations(
+            target_save_name, clip_save_name, text_save_name, similarity_fn, return_target_feats=False, device=args.device
         )
         vals, ids = torch.max(similarities, dim=1)
         
