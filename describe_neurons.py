@@ -17,8 +17,9 @@ parser.add_argument("--clip_model", type=str, default="ViT-B/16",
 parser.add_argument("--target_model", type=str, default="resnet50", 
                    help=""""Which model to dissect, supported options are pretrained imagenet models from
                         torchvision and resnet18_places""")
-parser.add_argument("--target_layers", type=str, default=["conv1", "layer1", "layer2", "layer3", "layer4"],
-                    help="Which layer activations to look at. Following the naming scheme of the PyTorch module used")
+parser.add_argument("--target_layers", type=str, default="conv1,layer1,layer2,layer3,layer4",
+                    help="""Which layer neurons to describe. String list of layer names to describe, separated by comma(no spaces). 
+                          Follows the naming scheme of the Pytorch module used""")
 parser.add_argument("--d_probe", type=str, default="broden", 
                     choices = ["imagenet_broden", "cifar100_val", "imagenet_val", "broden", "imagenet_broden"])
 parser.add_argument("--concept_set", type=str, default="data/20k.txt", help="Path to txt file containing concept set")
@@ -34,6 +35,8 @@ parser.parse_args()
 
 if __name__ == '__main__':
     args = parser.parse_args()
+    args.target_layers = args.target_layers.split(",")
+    
     similarity_fn = eval("similarity.{}".format(args.similarity_fn))
     
     utils.save_activations(clip_name = args.clip_model, target_name = args.target_model, 
